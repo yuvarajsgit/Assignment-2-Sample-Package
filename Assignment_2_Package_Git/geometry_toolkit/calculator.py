@@ -1,3 +1,4 @@
+# Modified after checking out the file using Git.
 """2D geometric dimension and area computation functions."""
 
 import math
